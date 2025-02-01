@@ -1,4 +1,4 @@
-#Comandos para instalar la WSL
+# Comandos para instalar la WSL
 
 Verificación de disponibilidad de WSL
 
@@ -13,7 +13,7 @@ Instalar la WSL 2
 Verificar la instalación de la WSL 2
 `wsl --list --verbose`
 
-#Comando para instalar Docker
+# Comando para instalar Docker
 
 Actualización de paquetes
 ```
